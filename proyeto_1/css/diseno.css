@@ -1,0 +1,68 @@
+/* diseño de inicio */
+.contenedor{
+    width: 100%;
+}
+
+.inicio{
+    bottom: initial ;
+    background-color: black;
+    width: 20%;
+    height: 100%;
+    float: left;
+    text-align: above ;
+    margin
+
+}
+.descripcion1{
+    background-color: rgb(75, 221, 247);
+    
+    width: 80%;
+    float: right;
+    height: 25%;
+}
+.descripcion2{
+    background-color: rgb(230, 255, 8);
+    
+    width: 80%;
+    float: right;
+    height: 25%;
+}
+.descripcion3{
+    background-color: rgb(250, 207, 65);
+    
+    width: 80%;
+    float: right;
+    height: 25%;
+}
+
+.descripcion4{
+    background-color: rgb(238, 16, 16);
+    
+    width: 80%;
+    float: right;
+    height: 25%;
+}
+#grid div {
+    color: rgb(114, 15, 15);
+    font-weight: bold;
+}
+.text {
+    font: 150% sans-serif;
+    color:aliceblue;
+}
+.text2 {
+    font: bold 150% sans-serif;
+    font-size: xx-large;
+    color:aliceblue;
+}
+
+a {
+   
+    background-color: rgb(12, 12, 12);
+    transition: background-color .5s;
+  }
+  
+  a:hover {
+    text-transform: uppercase;
+  
+  }
